@@ -30,6 +30,3 @@ plotDistribution(mean2,cov1,'2')
 plotDistribution(mean1,cov2,'3')
 plotDistribution(mean1,cov3,'4')
 plotDistribution(mean1,cov4,'5')
-
-
-
